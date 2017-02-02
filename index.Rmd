@@ -1,0 +1,5 @@
+---
+title: "Genes and Coinflips"
+---
+
+A collection of thoughts on stochasticity, genetics, and computation.

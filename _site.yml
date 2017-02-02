@@ -1,0 +1,12 @@
+name: "krukov.ca"
+output_dir: "docs"
+navbar:
+  title: "Genes and Coinflips"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
